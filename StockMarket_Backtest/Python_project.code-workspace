@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Python_project",
+			"path": "../../Python_project"
+		},
+		{
+			"name": "Data_science_project",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
